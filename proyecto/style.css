@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    height:100vh;
+}
+.bg-content-a{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+.bg-content-b{
+    background-image: url(/webcam.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.content1{
+    height:50%;
+    background-color: #EBEAEA;
+}
+
+.title{
+    color: #fff;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+.responsive-icon {
+    width: 100%;
+    max-width: 60px;
+    height: auto;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
+}
+
+.content-last{
+    width: 60%;
+    height: auto;
+}
+.foot{
+    height:auto;
+    color: #fff;
+    background-color: #28333A;
+}
+.h-content{
+    width: auto;
+    height:200px;
+}
+
+@media only screen and (max-width: 740px) {
+    .responsive-img {
+       display: block !important;
+    }
+   }
