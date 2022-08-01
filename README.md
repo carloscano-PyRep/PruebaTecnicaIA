@@ -6,10 +6,9 @@ Este landing page es una prueba para ir integrando bootstrap en proyectos propio
 ### Link del sitio
 - https://landingpagetestsite.netlify.app/
 
-###Herramientas usadas
+### Herramientas usadas
                 
 1. HTML5
 2. CSS
 3. Java Script
 4. Bootstrap
-### Link del sitio
